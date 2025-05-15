@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files (scraped data)
+*.json
+*.csv
+
+# Selenium driver executables
+chromedriver.exe
+chromedriver
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE folders/settings (if you use VSCode or others)
+.vscode/
+.idea/
+
+# Logs and debug files
+*.log
+
+# Python virtual environment folders
+env/
+venv/
