@@ -50,6 +50,14 @@ This approach ensures reliable data collection from a JavaScript-heavy, interact
 
 ---
 
+## 📸 Screenshot
+
+Here’s a screenshot of the scraper running in the terminal:
+
+![Scraper Output](ladies_output_screenshot.PNG)
+
+---
+
 ## 📁 Output Format
 
 ```json
